@@ -11,16 +11,16 @@ Este projeto utiliza a API do Google Gemini para aprimorar a descrição de caso
 
 ## Como Usar:
 
-# Para utilizá-lo, insira o texto do chamado a ser corrigido no input. 
-# **mantendo a estrutura original com os campos "Problema relatado", "Procedimento Executado", "Evidências" e "Solução".**
+**Para utilizá-lo, insira o texto do chamado a ser corrigido no input. 
+**mantendo a estrutura original com os campos "Problema relatado", "Procedimento Executado", "Evidências" e "Solução".**
 
-# **Exemplo de entrada:**
-# ```
-# *Problema relatado: Loja informa que todos os celulares estão com problema ao finalizar a venda, não finaliza 
-# *Procedimento Executado: solicitado para atualizar versão do linxmobile pelo linx updater, ler o qrcode no PDV1 feito acesso ao celular ID ID0QPE Solicitado teste de venda, venda finalizada normalmente
-# *Evidências: 
-# *Solução: resolveu com a atualizao
-# ```
+**Exemplo de entrada:**
+* ```
+* **Problema relatado: Loja informa que todos os celulares estão com problema ao finalizar a venda, não finaliza 
+* **Procedimento Executado: solicitado para atualizar versão do linxmobile pelo linx updater, ler o qrcode no PDV1 feito acesso ao celular ID ID0QPE Solicitado teste de venda, venda finalizada normalmente
+* **Evidências: 
+* **Solução: resolveu com a atualizao
+* ** ```
 
 
 ## Observações:
